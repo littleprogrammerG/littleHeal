@@ -1,0 +1,6 @@
+name: littleHeal
+version: '1.0'
+main: dev.littleprogrammer.littleHeal.Main
+api-version: '1.21'
+authors: [ littleprogrammer ]
+website: www.littleprogrammer.dev
