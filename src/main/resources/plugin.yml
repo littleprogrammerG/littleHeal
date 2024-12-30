@@ -1,6 +1,9 @@
 name: littleHeal
-version: '1.0'
+version: '1.1'
 main: dev.littleprogrammer.littleHeal.Main
 api-version: '1.21'
 authors: [ littleprogrammer ]
 website: www.littleprogrammer.dev
+commands:
+  heal:
+    description: This heals yourself or a player specified.
